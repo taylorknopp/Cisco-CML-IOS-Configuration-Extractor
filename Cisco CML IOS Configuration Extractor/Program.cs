@@ -31,7 +31,21 @@ namespace Cisco_CML_IOS_Configuration_Extractor
                 Environment.Exit(0);
             }
             string labYaml = File.ReadAllText(path);
-            Console.Write(labYaml);
+            //Console.Write(labYaml);
+            var stringReader = new StringReader(labYaml);
+            var deserializer = new DeserializerBuilder().WithNamingConvention(UnderscoredNamingConvention.Instance).Build();
+            Dictionary<object,object> deserializedContent = (Dictionary<object, object>)deserializer.Deserialize(stringReader);
+            
+
+            foreach (object Obj in (List<object>)deserializedContent["nodes"])
+            {
+                Dictionary<object, object> dict = (Dictionary<object, object>)Obj;
+                string filePathForConfigFile = path.Remove(path.LastIndexOf(@"\")) + @"\" + dict["label"].ToString() + ".ios";
+                Console.WriteLine("Found" + dict["label"].ToString() + " - " + dict["node_definition"] + "Saving To: " + filePathForConfigFile);
+                File.AppendAllText(filePathForConfigFile, dict["configuration"].ToString()); 
+            }
+
+            
         }
     }
 }

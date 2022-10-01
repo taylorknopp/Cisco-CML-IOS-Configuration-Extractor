@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MSVuAohk4IoKiRIU6Mebbo8/sHMByAlzqXNzINJS6a3flMNu5YNLfrfjjO78hfcmv3xORHwF5AuHlyd16J+ooA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\taylo\\Source\\Repos\\Cisco-CML-IOS-Configuration-Extractor\\Cisco CML IOS Configuration Extractor\\Cisco CML IOS Configuration Extractor.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\taylo\\.nuget\\packages\\yamldotnet\\12.0.1\\yamldotnet.12.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -6,4 +6,9 @@
     <RootNamespace>Cisco_CML_IOS_Configuration_Extractor</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Text.RegularExpressions" Version="4.3.1" />
+    <PackageReference Include="YamlDotNet" Version="12.0.1" />
+  </ItemGroup>
+
 </Project>

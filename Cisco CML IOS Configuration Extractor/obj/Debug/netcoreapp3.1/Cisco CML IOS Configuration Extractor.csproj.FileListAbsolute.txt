@@ -1,0 +1,16 @@
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\bin\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.exe
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\bin\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.deps.json
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\bin\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.runtimeconfig.json
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\bin\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.runtimeconfig.dev.json
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\bin\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.dll
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\bin\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.pdb
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\bin\Debug\netcoreapp3.1\YamlDotNet.dll
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\obj\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.csproj.AssemblyReference.cache
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\obj\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\obj\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.AssemblyInfoInputs.cache
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\obj\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.AssemblyInfo.cs
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\obj\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.csproj.CoreCompileInputs.cache
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\obj\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.csproj.CopyComplete
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\obj\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.dll
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\obj\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.pdb
+C:\Users\taylo\Source\Repos\Cisco-CML-IOS-Configuration-Extractor\Cisco CML IOS Configuration Extractor\obj\Debug\netcoreapp3.1\Cisco CML IOS Configuration Extractor.genruntimeconfig.cache

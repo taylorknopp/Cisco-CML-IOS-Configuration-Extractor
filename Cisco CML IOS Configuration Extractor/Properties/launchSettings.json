@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Cisco CML IOS Configuration Extractor": {
+      "commandName": "Project",
+      "commandLineArgs": "S:\\CMlTest\\test.yaml"
+    }
+  }
+}
